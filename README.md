@@ -1,3 +1,4 @@
+# lichess bot
 # import yaml
 import os
 import os.path
